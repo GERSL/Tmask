@@ -1,6 +1,6 @@
 # Tmask
 
-This software called Tmask (multiTemporal mask) is used for automated clouds, cloud shadows, and snow masking for Landsat 4-8 images based on time series analysis. Please contact Zhe Zhu (zhe.zhu@ttu.edu) at Department of Geosciences, Texas Tech University if you have any questions. 
+This software called Tmask (multiTemporal mask) is used for automated clouds, cloud shadows, and snow masking for Landsat 4-8 images based on time series analysis. Please contact Zhe Zhu (zhe@uconn.edu) at Department of Natural Resources and the Environment, University of Connecticut if you have any questions. 
 
 Please cite the following paper: Zhu, Z. and Woodcock, C. E., Automated cloud, cloud shadow, and snow detection based on multitemporal Landsat data: an algorithm designed specifically for monitoring land cover change, Remote Sensing of Environment (accepted), doi:10.1016/j.rse.2014.06.012 (This paper explains the 1.0 version of Tmask in great details).
 
