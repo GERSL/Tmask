@@ -6,7 +6,7 @@ Please cite the following paper: Zhu, Z. and Woodcock, C. E., Automated cloud, c
 
 Please note that this algorithm is very time consuming. For example, to provide cloud, cloud shadow, and snow masks for all sample images (33 Landsat images), it may take approximately 20 CPU hours! Running on the high performance computing server is suggested.
 
-After running Fmask, there will be an image called XXXTmask that can be opened by ENVI. The image values are presenting the following classes:
+After running Tmask, there will be an image called XXXTmask that can be opened by ENVI. The image values are presenting the following classes:
 
 0 => clear land pixel
 
